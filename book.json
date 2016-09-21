@@ -1,0 +1,11 @@
+{
+    "plugins": ["mermaid-gb3"],
+    "pluginsConfig": {
+      "mermaid-gb3": {
+         "theme": "forest"
+      }
+    },
+    "styles": {
+      "website": "./styles/website.css"
+    }
+}

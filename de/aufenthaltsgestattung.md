@@ -9,7 +9,7 @@ graph TD
   id105{"[105] Ich möchte Arbeit finden."}
   id106["[106] Arbeit A Studium (AS_AC)"]
   id107{"[107] Ich möchte<br>einen Beruf in<br>Deutschland lernen."}
-  id108["[108] Coaching ABC (CABC)."]
+  id108["[108] Coaching ABC (CABC)"]
   id109{"[109] Ich habe einen<br>Abschluss und/oder<br>ein schriftliches Zeugnis in<br>diesem Beruf."}
   id110{"[110] Ich war bei der Anerkennungsberatung."}
   id111["[111] Anerkennungsberatung A (AB_AC)"]
@@ -28,7 +28,7 @@ graph TD
   id124{"[124] Ich arbeite<br>aktuell in dem<br>Beruf, in dem<br>ich einen Berufsabschluss<br>machen will."}
   id125["[125] Ergebnis BU_AC"]
   id126{"[126] Ich arbeite,<br>aber ich will<br>in einem anderen<br>Beruf einen<br>Berufsabschluss."}
-  id127["[127] Ergebnis NQ_AJCJ"] 
+  id127["[127] Ergebnis NQ_AJCJ"]
   id128{"[128] Ich arbeite,<br>aber ich will<br>in einem anderen<br>Beruf einen<br>Berufsabschluss."}
   id129["[129] Ergebnis EA_AC"]
   id130["[130] Ergebnis EA_AJCJ"]

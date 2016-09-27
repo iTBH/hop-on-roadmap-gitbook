@@ -46,7 +46,7 @@
 
 ## Hintergrund
 
-<!-- * [Open Educational Resources (OER)]()
+* [Open Educational Resources (OER)]()
 * [GitBooks]()
-* [Integration in "Hop-on"]() -->
+* [Integration in "Hop-on"]()
 * [Technische Hinweise](./hintergrund/technische-hinweise.md)

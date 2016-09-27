@@ -43,3 +43,10 @@
 * [O_AC](O_AC.md)
 * [OB](OB.md)
 * [SmA_ABC](SmA_ABC.md)
+
+## Hintergrund
+
+<!-- * [Open Educational Resources (OER)]()
+* [GitBooks]()
+* [Integration in "Hop-on"]() -->
+* [Technische Hinweise](./hintergrund/technische-hinweise.md)

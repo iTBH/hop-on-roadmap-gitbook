@@ -274,7 +274,7 @@ Sie würden wahrscheinlich weniger Geld verdienen als aktuell. In einer dualen A
 
 In einer schulischen Ausbildung verdient man meistens kein Geld. Manchmal muss man ein Schulgeld bezahlen.
 
-Man kann einen Antrag auf finanzielle Hilfe für eine Ausbildung stellen. Es gibt Gesetze über die Voraussetzungen. Wenn keine finanzielle Hilfe möglich ist oder sie sehr gering ist, kann man vielleicht Geld vom Jobcenter bekommen.
+Man kann einen Antrag auf finanzielle Hilfe für eine Ausbildung stellen. Es gibt Gesetze über die Voraussetzungen. Wenn keine finanzielle Hilfe möglich ist, kann man vielleicht Geld vom Jobcenter bekommen.
 
 ### Hier finden Sie mehr Informationen
 

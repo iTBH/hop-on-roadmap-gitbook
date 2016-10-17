@@ -229,7 +229,7 @@ Sie müssen viel lesen und schreiben. Die praktischen und schriftlichen Prüfung
 
 Sie würden wahrscheinlich weniger Geld verdienen als aktuell in Ihrer Arbeit. In einer dualen Ausbildung verdienen Sie ein Ausbildungsgeld. Die Höhe des Ausbildungsgelds ist abhängig von dem Beruf und der Firma. Der Unterricht ist meistens in einer staatlichen Schule (Berufsschule). Die Schule wird vom Bundesland bezahlt. Es gibt aber auch Privatschulen (Bildungsinstitute), die Geld kosten. In einer schulischen Ausbildung verdient man meistens kein Geld. Manchmal muss man ein Schulgeld bezahlen.
 
-Man kann einen Antrag auf finanzielle Hilfe für eine Ausbildung stellen. Es gibt Gesetze über die Voraussetzungen. Wenn keine finanzielle Hilfe möglich ist oder sie sehr gering ist, kann man vielleicht Geld vom Jobcenter bekommen. Es ist sehr wichtig, dass Sie vorher mit Ihrem Jobcenter sprechen.
+Man kann einen Antrag auf finanzielle Hilfe für eine Ausbildung stellen. Es gibt Gesetze über die Voraussetzungen. Wenn keine finanzielle Hilfe möglich ist, kann man vielleicht Geld vom Jobcenter bekommen. Es ist sehr wichtig, dass Sie vorher mit Ihrem Jobcenter sprechen.
 
 ### Hier finden Sie mehr Informationen
 

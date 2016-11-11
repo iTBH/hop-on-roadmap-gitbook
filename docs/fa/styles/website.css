@@ -1,0 +1,21 @@
+.mermaid .label {
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.mermaid .label div {
+  white-space: normal !important;
+  line-height: 1.2em;
+}
+
+.mermaid .result .label:hover div {
+  text-decoration: underline;
+}
+
+.mermaid .edgeLabel {
+  color: #000;
+}
+
+.result {
+  cursor: pointer;
+}

@@ -21,7 +21,7 @@ EA_AJCJ
 
 ### ستجد هنا المزيد من المعلومات
 
-وهناك العديد من القواعد القانونية التي لا يمكن توضيحها هنا. إذا كنت تأتي من ["بلد المنشأ الآمن"](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html)، وهناك قواعد قانونية إضافية. ولذلك، فإنه من المهم لك الاستفسار في مكتب خدمة استشارية.
+وهناك العديد من القواعد القانونية التي لا يمكن توضيحها هنا. إذا كنت تأتي من ["بلد المنشأ الآمن"](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland))، وهناك قواعد قانونية إضافية. ولذلك، فإنه من المهم لك الاستفسار في مكتب خدمة استشارية.
 
 [هنا سوف تجد مراكز المشورة، حيث يمكنك الاستفسار بنفسك](#migrationsberatung-rechtsberatung).
 

@@ -21,7 +21,7 @@ Mit einem Berufsabschluss und einer Arbeitsstelle als Fachkraft in dem Beruf kan
 
 ### Hier finden Sie mehr Informationen
 
-Es gibt viele gesetzliche Regeln, die hier nicht alle erklärt werden können. Wenn Sie aus einem ["sicheren Herkunftsland"](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Deshalb ist es wichtig, dass Sie sich bei einer Beratungsstelle informieren.
+Es gibt viele gesetzliche Regeln, die hier nicht alle erklärt werden können. Wenn Sie aus einem ["sicheren Herkunftsland"](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)) kommen, gibt es zusätzliche gesetzliche Regeln. Deshalb ist es wichtig, dass Sie sich bei einer Beratungsstelle informieren.
 
 [Hier finden Sie Beratungsstellen, wo Sie sich informieren können](#migrationsberatung-rechtsberatung).
 

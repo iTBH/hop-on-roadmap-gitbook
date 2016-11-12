@@ -1,7 +1,7 @@
 A_AC
 ==
 
-Sie wollen in Deutschland keinen Beruf (weiter) lernen. Sie wollen arbeiten. Sie wollen in Deutschland keinen Beruf (weiter) lernen. Sie wollen arbeiten. Sie haben eine Aufenthaltsgestattung oder Duldung.
+Sie wollen in Deutschland keinen Beruf (weiter) lernen. Sie wollen arbeiten. Sie haben eine Aufenthaltsgestattung oder Duldung.
 
 Dieser Fahrplan ist für die berufliche Bildung und nicht für das Thema Arbeitssuche. Wir können deshalb nur wenige Informationen zum Thema Arbeitssuche geben.
 
@@ -35,7 +35,7 @@ Meistens können Sie eine Beschäftigungserlaubnis bekommen, wenn Sie mindestens
 
 Wenn bei Ihnen der Satz steht "Beschäftigung/Erwerbstätigkeit nicht gestattet", informieren Sie sich bei einer Rechtsberatung.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich auch bei einer Rechtsberatung.
+Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich auch bei einer Rechtsberatung.
 
 In manchen Bundesländern oder Regionen Deutschlands gibt es eine spezielle Prüfung durch die Agentur für Arbeit, wenn Sie weniger als 15 Monate in Deutschland leben. Die Prüfung heißt Vorrangprüfung.
 

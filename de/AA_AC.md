@@ -63,7 +63,7 @@ Meistens können Sie eine Beschäftigungserlaubnis bekommen, wenn Sie mindestens
 
 Wenn bei Ihnen der Satz steht „Beschäftigung/Erwerbstätigkeit nicht gestattet“, informieren Sie sich bei einer Rechtsberatung.
 
-Wenn Sie aus einem [„sicheren Herkunftsland“](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)) kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich auch bei einer Rechtsberatung.
+Wenn Sie aus einem <a href="https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)" target="_blank">"sicheren Herkunftsland"</a> kommen, gibt es zusätzliche gesetzliche Regeln. Informieren Sie sich auch bei einer Rechtsberatung.
 
 In manchen Bundesländern oder Regionen Deutschlands gibt es eine spezielle Prüfung durch die Agentur für Arbeit, wenn Sie weniger als 15 Monate in Deutschland leben. Die Prüfung heißt Vorrangprüfung.
 

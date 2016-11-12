@@ -13,7 +13,7 @@ Für fast alle Wege brauchen Sie eine Beschäftigungserlaubnis Ihrer Ausländerb
 
 Das ist Erlaubnis der Ausländerbehörde, dass Sie arbeiten dürfen. Meistens können Sie die Beschäftigungserlaubnis bekommen, wenn Sie seit 3 oder 6 Monaten in Deutschland leben.
 
-Es gibt viele gesetzliche Regeln, die hier nicht alle erklärt werden können. Wenn Sie aus einem ["sicheren Herkunftsland"](http://www.bamf.de/DE/Fluechtlingsschutz/Sonderverfahren/SichereHerkunftsl%C3%A4nder/sichere-herkunftsl%C3%A4nder-node.html) kommen, gibt es zusätzliche gesetzliche Regeln. Deshalb ist es wichtig, dass Sie sich bei einer Beratungsstelle informieren.
+Es gibt viele gesetzliche Regeln, die hier nicht alle erklärt werden können. Wenn Sie aus einem ["sicheren Herkunftsland"](https://de.wikipedia.org/wiki/Sicherer_Herkunftsstaat_(Deutschland)) kommen, gibt es zusätzliche gesetzliche Regeln. Deshalb ist es wichtig, dass Sie sich bei einer Beratungsstelle informieren.
 
 ### Kann ich eine Aufenthaltserlaubnis für die Zeit bekommen?
 

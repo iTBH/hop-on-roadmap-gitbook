@@ -100,6 +100,4 @@ Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie da
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-14.09.2016
+Stand: [14.09.2016]

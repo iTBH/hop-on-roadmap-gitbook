@@ -69,6 +69,4 @@ In Berlin und Hamburg kann auch das Bundesland die Kosten finanzieren, wenn Sie 
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-22.08.2016
+Stand: [22.08.2016]

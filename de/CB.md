@@ -38,6 +38,4 @@ Viele Beratungsstellen sind für Sie kostenlos.
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-23.08.2016
+Stand: [23.08.2016]

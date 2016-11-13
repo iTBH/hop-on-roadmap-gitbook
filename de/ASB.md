@@ -66,6 +66,4 @@ Sie können überlegen, ob Sie in der Zukunft einen Berufsabschluss machen wolle
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-22.08.2016
+Stand: [22.08.2016]

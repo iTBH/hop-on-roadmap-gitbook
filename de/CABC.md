@@ -39,6 +39,4 @@ Wie kann ich weiter Deutsch lernen?
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-22.08.2016
+Stand: [22.08.2016]

@@ -295,6 +295,4 @@ Man kann einen Antrag auf finanzielle Hilfe für eine Ausbildung stellen. Es gib
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-14.09.2016
+Stand: [14.09.2016]

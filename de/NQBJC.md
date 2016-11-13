@@ -288,6 +288,4 @@ Manchmal gibt es auch spezielle Programme, die andere Möglichkeiten für die Fi
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-14.09.2016
+Stand: [14.09.2016]

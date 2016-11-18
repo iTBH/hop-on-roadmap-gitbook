@@ -50,7 +50,7 @@ Es gibt kein Recht auf eine Finanzierung. Sie müssen zeigen, dass eine Überset
 
 Sprechen Sie vorher mit dem Jobcenter oder der Agentur für Arbeit über die Finanzierung.
 
-In Berlin und Hamburg kann auch das Bundesland die Kosten finanzieren, wenn Sie zum Beispiel nicht genug Geld haben.
+In Baden-Württemberg, Berlin und Hamburg kann auch das Bundesland die Kosten finanzieren, wenn Sie zum Beispiel nicht genug Geld haben.
 
 ### Wo bekomme ich mehr Informationen?
 

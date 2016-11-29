@@ -14,7 +14,7 @@ Vielleicht ist der Grund, dass Sie
 -   keine Beschäftigungserlaubnis bekommen oder
 -   andere Probleme haben.
 
-Es gibt verschiedene Beratungsstellen für verschiedene Probleme. Die Personen dort können Ihnen helfen, eine Lösung zu finden.
+Es gibt verschiedene Beratungsstellen für verschiedene Themen. Die Personen dort können Ihnen helfen, eine Lösung zu finden.
 
 ### Welche Deutschkenntnisse brauche ich?
 

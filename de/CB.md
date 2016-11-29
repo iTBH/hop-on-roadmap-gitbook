@@ -12,7 +12,7 @@ Vielleicht ist der Grund, dass Sie
 -   noch wenig Deutschkenntnisse haben oder
 -   andere Probleme haben.
 
-Es gibt verschiedene Beratungsstellen für verschiedene Probleme. Die Personen dort können Ihnen helfen, eine Lösung zu finden.
+Es gibt verschiedene Beratungsstellen für verschiedene Themen. Die Personen dort können Ihnen helfen, eine Lösung zu finden.
 
 ### Welche Deutschkenntnisse brauche ich?
 

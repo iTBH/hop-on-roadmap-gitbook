@@ -50,7 +50,7 @@ Es gibt kein Recht auf eine Finanzierung. Sie müssen zeigen, dass eine Überset
 
 Sprechen Sie vorher mit dem Jobcenter oder der Agentur für Arbeit über die Finanzierung.
 
-In Baden-Württemberg, Berlin und Hamburg kann auch das Bundesland die Kosten finanzieren, wenn Sie zum Beispiel nicht genug Geld haben.
+Seit Dezember 2016 kann man in allen anderen Bundesländern finanzielle Hilfe für die Anerkennung bekommen, wenn eine Finanzierung durch die Agentur für Arbeit oder das Jobcenter nicht möglich ist. 
 
 ### Wo bekomme ich mehr Informationen?
 
@@ -71,4 +71,4 @@ Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
 ### Stand
 
-22.08.2016
+12.12.2016

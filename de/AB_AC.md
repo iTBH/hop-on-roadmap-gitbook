@@ -44,7 +44,7 @@ Die Agentur für Arbeit kann die Übersetzung und/oder das Anerkennungsverfahren
 
 Wenn Sie noch nicht bei der Agentur für Arbeit registriert sind, können Sie das tun. Sie bekommen kein Arbeitslosengeld, aber Sie können sich beraten lassen.
 
-In Baden-Württemberg, Berlin und Hamburg kann auch das Bundesland die Kosten finanzieren, wenn Sie zum Beispiel nicht genug Geld haben.
+Seit Dezember 2016 kann man in allen anderen Bundesländern finanzielle Hilfe für die Anerkennung bekommen, wenn eine Finanzierung durch die Agentur für Arbeit oder das Jobcenter nicht möglich ist. 
 
 ### Wo bekomme ich mehr Informationen?
 
@@ -65,4 +65,4 @@ Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
 ### Stand
 
-14.09.2016
+12.12.2016

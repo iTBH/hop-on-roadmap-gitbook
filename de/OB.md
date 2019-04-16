@@ -49,6 +49,4 @@ Die meisten Kurse zur beruflichen Orientierung sind auf Deutsch. Dafür ist es g
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-22.08.2016
+Stand: [22.08.2016]

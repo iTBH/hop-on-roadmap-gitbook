@@ -297,6 +297,4 @@ Wenn Ihre Aufenthaltserlaubnis kürzer ist als die Umschulung, sollten Sie auch 
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-14.09.2016
+Stand: [14.09.2016]

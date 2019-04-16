@@ -95,6 +95,4 @@ Sie können überlegen, ob Sie in der Zukunft einen deutschen Berufsabschluss na
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-14.09.2016
+Stand: [14.09.2016]

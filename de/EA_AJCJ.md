@@ -202,6 +202,4 @@ Es gibt unterschiedliche Regeln bei Berufen mit schulischer Ausbildung und Beruf
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-09.09.2016
+Stand: [09.09.2016]

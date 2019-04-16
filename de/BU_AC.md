@@ -326,6 +326,4 @@ Mit einer Aufenthaltsgestattung oder Duldung ist es unwahrscheinlich, eine Finan
 
 Wir wünschen Ihnen viel Erfolg auf Ihrem Weg!
 
-### Stand
-
-10.09.2016
+Stand: [10.09.2016]
